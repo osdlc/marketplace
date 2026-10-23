@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint": "oxlint ."
+  }
+}
