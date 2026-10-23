@@ -1,0 +1,3 @@
+# Written by the sdlc release from sksizer/dev (scripts/sdlc-mirror/templates/marketplace/gitignore).
+# An edit made here is replaced by the next release; edit it in sksizer/dev.
+node_modules/
